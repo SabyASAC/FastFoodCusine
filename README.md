@@ -29,7 +29,7 @@ p {
 
 <a href=".................">Dominoes</a>
 
-<a href="......................">KFC</a>
+<a href="http://bit.ly/2LhySye">KFC</a>
 
 </body>
 
