@@ -25,9 +25,7 @@ p {
 
 <p> Welcome to the Fast Food Page </p> 
 
-<h5> CLick the following links to get redirected to the original websites </h5> 
-
-<a href=".................">Dominoes</a>
+<h5> CLick the following links to get redirected to the websites </h5> 
 
 <a href="http://bit.ly/2LhySye">KFC</a>
 
